@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #212121;
+    width: 924px;
+    background-image: url(../img/Banner.png);
+    background-repeat: no-repeat;
+}
+
+.container{
+    padding-top: 68px;
+    padding-left: 64px;
+}
+
+
+h4{
+    padding-bottom: 4px;
+    margin: 0;
+    font-size: 20px;
+    /* line-height: 48px; */
+}
+
+h2{
+    margin: 0;
+    padding-bottom: 24px;
+    font-size: 40px;
+}
+  
+.buton{
+    background-color: #0D6EFD;
+    border-radius: 32px;
+    width: 144px;
+    height: 64px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 23px;
+    border: none;
+}
+
